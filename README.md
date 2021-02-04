@@ -1,1 +1,2 @@
 # GitTraining
+Some cool changes
